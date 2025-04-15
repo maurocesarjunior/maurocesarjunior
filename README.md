@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maurocesarjunior/df49a37d7cf01d1c0680eec8d574b295/raw/eb534573dc58523e36c2230b7253ca7f6be3cd48/githubcar.svg"/>
+
 <h1 align="left">Hi, I'm Mauro Cesar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maurocesarjunior&color=yellow" alt="Profile views" /> </p>
 
