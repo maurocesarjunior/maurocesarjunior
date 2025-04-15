@@ -1,16 +1,26 @@
-## Hi there 👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maurocesarjunior/df49a37d7cf01d1c0680eec8d574b295/raw/eb534573dc58523e36c2230b7253ca7f6be3cd48/githubcar.svg"/>
+<h1 align="left">Hi, I'm Mauro Cesar</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maurocesarjunior&color=yellow" alt="Profile views" /> </p>
 
-<!--
-**maurocesarjunior/maurocesarjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Web Developer specialized in Python & Django
+- Currently working at Instituto Federal do Sul de Minas Gerais
+  
+- Exploring new areas like Game Development and Pixel Art
+- More projects here on my GitHub!
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Godot](https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godot-engine)&nbsp;
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-05122A?style=flat&logo=gnu-bash)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=microsoft&logoColor=white)&nbsp;
+
+
+
+<br><br>
